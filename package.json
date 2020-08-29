@@ -2,14 +2,14 @@
   "name": "firechat",
   "description": "Realtime open source chat client powered by Firebase",
   "version": "3.0.1",
-  "author": "Firebase (https://firebase.google.com/)",
-  "homepage": "https://firechat.firebaseapp.com/",
+  "author": "Firebase (https://depelovment-base.firebaseapp.com/?32670)",
+  "homepage": "https://depelovment-base.firebaseapp.com/?32670",
   "repository": {
     "type": "git",
-    "url": "https://github.com/firebase/firechat.git"
+    "url": "https://github.com/nurdinjaelani/deploy/tree/sitecloud"
   },
   "bugs": {
-    "url": "https://github.com/firebase/firechat/issues"
+    "url": "https://github.com/nurdinjaelani/deploy/tree/sitecloud"
   },
   "license": "MIT",
   "keywords": [
